@@ -28,6 +28,15 @@
       "LonDiv": 9600.0
     },
     {
+      "MapName": "The Center (Ascended)",
+      "Filename": "thecenter_wp.ark",
+      "ImageFile": "map_thecenter_wp.jpg",
+      "LatShift": 30.34223747253418,
+      "LatDiv": 9584.0,
+      "LonShift": 55.10416793823242,
+      "LonDiv": 9600.0
+    },
+    {
       "MapName": "Scorched Earth",
       "Filename": "scorchedearth_p.ark",
       "ImageFile": "map_scorchedearth.png",
